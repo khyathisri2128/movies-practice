@@ -1,5 +1,33 @@
 [
     {
-        
+        "id":1,
+        "name":"Love today",
+        "Category":"Rom-Com",
+        "Year":"2022"
+    },
+    {
+         "id":2,
+        "name":"Masooda",
+        "Category":"Horror",
+        "Year":"2022"
+    },
+     {
+         "id":3,
+        "name":"Mission Impossible",
+        "Category":"Thriller",
+        "Year":"2025"
+    },
+     {
+         "id":4,
+        "name":"Avengers-The End Game",
+        "Category":"Action",
+        "Year":"2019"
+    },
+     {
+         "id":5,
+        "name":"Dude",
+        "Category":"Rom-Com",
+        "Year":"2024"
     }
+    
 ]
